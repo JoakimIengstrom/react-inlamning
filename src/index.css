@@ -42,4 +42,16 @@ nav {
   .galleryPic {
     max-width: 20%;
     border: solid whitesmoke 10px;
+    border-radius: 10px;
+  }
+
+  p {
+    font-size: x-large;
+  }
+
+  .Home {
+    border: solid whitesmoke 10px;
+    border-radius: 10px;   
+    padding: 20px;
+    margin-bottom: 50px;
   }

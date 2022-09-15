@@ -4,6 +4,7 @@ const Lore = () => {
   return (
     <div className="Lore">
       <h1>This is Lore</h1>
+     
     </div>
   );
 };
